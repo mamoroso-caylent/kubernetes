@@ -20,7 +20,6 @@ while [ $exit == 0 ]; do
     echo "[3 - Nodes load]"
     echo "[4 - Deployments load]"
     echo "[5 - Logging running pods]"
-    echo "[6 - Logging running pods]"
     echo ""
     read -p "Please, select the number: " option
 
